@@ -1,7 +1,10 @@
 # renne-trajar
 
+
 Não responsivo
-![Captura de Tela 2022-06-06 às 10 33 34](https://user-images.githubusercontent.com/78916702/172171075-c4215eab-d682-4886-ab3c-9e7c029015b3.png)
+![Captura de Tela 2022-06-06 às 10 36 06](https://user-images.githubusercontent.com/78916702/172171335-d77759cd-0612-493d-8c8b-d092f17a549f.png)
+
+![Captura de Tela 2022-06-06 às 10 36 17](https://user-images.githubusercontent.com/78916702/172171382-46b30b4b-bf8b-4350-9479-fc7418e0e37f.png)
 
 ![Captura de Tela 2022-06-06 às 10 33 47](https://user-images.githubusercontent.com/78916702/172171083-5a6abebf-0a5b-4f31-ab5c-b71bbc9881ef.png)
 
