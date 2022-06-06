@@ -1,5 +1,7 @@
 # renne-trajar
 
+Não responsivo
+
 ## Project setup
 ```
 npm install
